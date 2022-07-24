@@ -1,4 +1,4 @@
-# JacesVeganPythonPizzaClub
+# Jaces Vegan Python Pizza Club
 
 This is an automatic pizza ordering program. 
 
